@@ -1,0 +1,10 @@
+{
+  "name": "HTML to Image",
+  "description": "Convert HTML content to an image and download it.",
+  "author": "Mauricio Paz <mauricio@lowcode.agency>",
+  "params": [
+    {"name": "html", "displayName": "HTML Content", "type": "string"},
+    {"name": "fileName", "displayName": "File Name", "type": "string"}
+  ],
+  "result": {"type": "string"}
+}
